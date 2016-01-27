@@ -1,0 +1,16 @@
+Blaine Morbitzer
+CSE 3461: Introduction to Networking
+Instructor: Adam Champion | Section: TTH 11:10
+Lab 0
+
+NOTE: MADE USING PYTHON 3.4.3
+
+The objective of this lab is to copy the binary "view" of any file entered into our program as command arguments and copy it into the "recv" folder in our lab's home directory.
+
+Running and Using:
+Before using this lab the user needs to be using python version 3.4.3.
+Once python version 3.4.3 is installed and in use, type in the following into the terminal:
+	python3 copy.py <filename>
+
+	where "<filename>" is the name of your file you would like to copy that is in your related directory.
+
